@@ -1,3 +1,5 @@
+#This tutorail was used to learn how to use Docker
+# The credit to this goes to Dave Gray the creator
 # Deploy with Docker
 ## A Step-by-Step Guide
 ---
